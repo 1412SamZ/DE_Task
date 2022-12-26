@@ -26,7 +26,7 @@
 
 
 ## Result
-![[output_figure.png]]
+![Result](output_figure.png)
 - On the left
     - The orange points are detected as normal points
     - The blue points are detected as abnormal points
